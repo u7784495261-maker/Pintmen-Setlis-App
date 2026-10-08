@@ -1,0 +1,10 @@
+{
+  "name":"The Pintmen Songbook",
+  "short_name":"Pintmen",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#11100f",
+  "theme_color":"#11100f",
+  "description":"The Pintmen offline songbook and setlists.",
+  "icons":[{"src":"./pintmen.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

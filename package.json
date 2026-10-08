@@ -1,0 +1,3 @@
+{
+  "name":"pintmen-songbook","version":"1.0.0","private":true,"scripts":{"dev":"python3 -m http.server 4173","build":"mkdir -p dist && cp -r index.html manifest.webmanifest sw.js assets src dist/"}
+}
